@@ -17,4 +17,7 @@ A. Jupiter.
 ```
 
 ## Questions
-Q. Who was the first woman to win a Nobel Prize ?
+Q. Who was the first woman to win a Nobel Prize ?   
+A. Marie Curie
+
+Q. Who was the first Prime Minister of Canada ?
