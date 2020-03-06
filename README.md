@@ -17,5 +17,4 @@ A. Jupiter.
 ```
 
 ## Questions
-Q. Who was the first woman to win a Nobel Prize ?
 A. Marie Curie
