@@ -24,3 +24,4 @@ Q. Who was the first Prime Minister of Canada ?
 
 
 Q. When was Canada founded?   
+A. July 1,1867
